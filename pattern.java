@@ -21,6 +21,17 @@ public class pattern {
 			}
 			System.out.println();
 		}
+		 String name = "Manish";
+		
+		if (name=="Manish") {
+			System.out.println("");
+			System.out.println("Manish");
+			
+		} else {
+			System.out.println("");
+			System.out.println("Manish");
+
+		}
 
 	}
 
